@@ -18,6 +18,7 @@ draft = false
 #### 2. Khoảnh khắc bên cô giáo
 
 <img src="{{ $.Site.BaseURL }}images/anh-lop-3.jpg" alt="Trao quà tri ân">
+
 > Nụ cười rạng rỡ của cô giáo khi nhận bó hoa từ học trò — một hình ảnh giản dị mà đầy yêu thương.
 
 
@@ -26,6 +27,7 @@ draft = false
 #### 3. Tập thể lớp 11A6
 
 <img src="{{ $.Site.BaseURL }}images/anh-lop-4.jpg" alt="Trao quà tri ân">
+
 > Những gương mặt rạng rỡ, tinh thần đoàn kết — là minh chứng cho một tập thể lớp luôn gắn bó và biết yêu thương nhau.
 
 
@@ -34,6 +36,7 @@ draft = false
 #### 4. Góc chụp kỷ niệm trước sân trường
 
 !<img src="{{ $.Site.BaseURL }}images/anh-lop-5.jpg" alt="Trao quà tri ân">
+
 > Khung cảnh rực rỡ dưới nắng ban mai, cùng tấm biển “Trường học thân thiện - Học sinh tích cực” — nơi lưu giữ bao kỷ niệm đẹp của tuổi học trò.
 
 
