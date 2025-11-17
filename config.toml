@@ -1,0 +1,61 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tập San Tri Ân 20/11"
+theme = "PaperMod"
+
+[menu]
+	[[menu.main]]
+		name = "Lời Ngỏ"
+		url = "/loi-ngo/"
+		weight = 10
+
+	[[menu.main]]
+		name = "Góc Sáng Tác"
+		url = "/goc-sang-tac/"
+		weight = 20
+
+	[[menu.main]]
+		name = "Góc Tri Ân"
+		url = "/goc-tri-an/"
+		weight = 30
+
+	[[menu.main]]
+		name = "Tin Tức & Sự Kiện"
+		url = "/tin-tuc/"
+		weight = 40
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+comments = true
+
+[params.cover]
+responsiveImages = true
+linkFullImages = false
+
+[params.editPost]
+URL = "https://github.com/<your-org>/<your-repo>/content"
+Text = "Suggest Changes"
+appendFilePath = true
+
+[params.profileMode]
+enabled = false
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
+
+
