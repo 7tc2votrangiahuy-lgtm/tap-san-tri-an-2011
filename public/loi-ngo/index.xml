@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lời Ngỏ on Tập San Tri Ân 20/11</title>
-    <link>http://localhost:1313/tap-san-tri-an-2011/loi-ngo/</link>
+    <link>https://7tc2votrangiahuy-lgtm.github.io/tap-san-tri-an-2011/loi-ngo/</link>
     <description>Recent content in Lời Ngỏ on Tập San Tri Ân 20/11</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/tap-san-tri-an-2011/loi-ngo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://7tc2votrangiahuy-lgtm.github.io/tap-san-tri-an-2011/loi-ngo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
