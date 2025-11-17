@@ -9,7 +9,7 @@ draft = false
 
 #### 1. Trao quà tri ân thầy giáo
 
-![Trao quà tri ân](/images/anhlop2.jpg)
+![Trao quà tri ân](/tap-san-tri-an-2011/images/anhlop2.jpg)
 
 > Học sinh lớp 11A6 trao tặng món quà ý nghĩa đến thầy giáo — biểu tượng của lòng biết ơn và sự trân trọng.
 
@@ -17,7 +17,7 @@ draft = false
 
 #### 2. Khoảnh khắc bên cô giáo
 
-![Trao quà tri ân](/images/anhlop3.jpg)
+![Trao quà tri ân](/tap-san-tri-an-2011/images/anhlop3.jpg)
 
 > Nụ cười rạng rỡ của cô giáo khi nhận bó hoa từ học trò — một hình ảnh giản dị mà đầy yêu thương.
 
@@ -36,7 +36,7 @@ draft = false
 
 #### 4. Góc chụp kỷ niệm trước sân trường
 
-![Trao quà tri ân](/images/anhlop5.jpg)
+![Trao quà tri ân](/tap-san-tri-an-2011/images/anhlop5.jpg)
 
 > Khung cảnh rực rỡ dưới nắng ban mai, cùng tấm biển “Trường học thân thiện - Học sinh tích cực” — nơi lưu giữ bao kỷ niệm đẹp của tuổi học trò.
 
